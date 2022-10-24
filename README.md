@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - :hammer_and_wrench: I'm working with and have experiences more than 4 years on Unity Engine and my current focus in 3D world is AR devices and apps
-- :school: I newly graduated from Istanbul Modern Sciences High School and I am currently studying the preparatory class on German.
+- :school: I newly graduated from Istanbul Modern Sciences High School and I am currently studying the preparatory class on German language.
 - :rocket: I love learning and putting what I learned into practice!
 
 #### Projects
