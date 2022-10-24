@@ -11,6 +11,11 @@
 #  
 
 Contact with me via these platforms!
-- [Youtube](https://www.youtube.com/channel/UCyJN487C64xfTweWEl1-zZA)
-- [Instagram](https://www.instagram.com/nizam.3d/)
-- [Twitter](https://twitter.com/nizam3d)
+
+ [Youtube](https://www.youtube.com/channel/UCyJN487C64xfTweWEl1-zZA) | [Instagram](https://www.instagram.com/nizam.3d/) | [Twitter](https://twitter.com/nizam3d) | [Mail](mailto:nizamsaltan@protonmail.com)
+
+#
+
+#### :orange_book: Latest Blog Posts
+- [What Language Will Babies Speak If You Isolate Them From Outside World?](https://medium.com/@NizamSaltan/if-100-babies-are-confined-to-a-room-and-brought-up-what-language-will-they-speak-755f18c17c2d)
+- [How Instagram started and what Entrepreneurs can learn from it | How Started](https://medium.com/@NizamSaltan/how-instagram-started-and-what-entrepreneurs-can-learn-from-it-how-started-71357d262df3)
