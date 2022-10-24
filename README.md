@@ -6,7 +6,7 @@
 
 #### Projects
 - Flutter Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os).
-- Cross Platform Note Taking App - NoteBus - [GitHub Repo](https://github.com/nizamsaltan/note-bus)
+- Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus)
 
 #  
 
