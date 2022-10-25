@@ -12,6 +12,13 @@
 
 ## :hammer_and_wrench: Technologies & Tools
 
+![C#](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/c%23.svg)
+![Dart](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/dart.svg)
+![Unity 3D](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unity-3d.svg)
+![Javascript](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/javascript.svg)
+![Unreal Engine](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unreal-engine.svg)
+![Flutter](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/flutter.svg)
+
 #  
 
 Contact with me via these platforms!
