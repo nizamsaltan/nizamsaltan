@@ -5,8 +5,8 @@
 - :rocket: I love learning and putting what I learned into practice!
 
 #### Projects
-- Flutter Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os).
-- Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus)
+- Flutter Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
+- Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus) | [Web Demo](https://note-bus.web.app)
 
 <br/>
 
