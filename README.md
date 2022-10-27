@@ -5,8 +5,8 @@
 - :rocket: I love learning and putting what I learned into practice!
 
 #### Projects
-- WIP | Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
-- WIP | Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus) | [Web Demo](https://note-bus.web.app)
+- :hammer_and_wrench: WIP | Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
+- :hammer_and_wrench: WIP | Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus) | [Web Demo](https://note-bus.web.app)
 
 <br/>
 
