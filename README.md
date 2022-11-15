@@ -12,13 +12,14 @@
 <br/>
 
 ## :hammer_and_wrench: Technologies & Tools
-
-![C#](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/c%23.svg)
-![Dart](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/dart.svg)
-![Unity 3D](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unity-3d.svg)
-![Javascript](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/javascript.svg)
+<!--  -->
 ![Unreal Engine](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unreal-engine.svg)
+![C#](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/c%23.svg)
+![Unity 3D](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unity-3d.svg)
+![Dart](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/dart.svg)
 ![Flutter](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/flutter.svg)
+![Javascript](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/javascript.svg)
+![Linux](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/fe08e79bd0b6d94021139f24ec72e3ad80bb7f0a/linux.svg)
 
 #  
 
