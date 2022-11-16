@@ -2,7 +2,7 @@
 
 - :man_technologist: I'm working with and have experiences more than 4 years on Unity Engine and my current focus in 3D world is AR devices and apps
 - :school: I newly graduated from Istanbul Modern Sciences High School and currently I am studying the preparatory class on German language.
-- :desktop_computer: I love and use linux both as embedded devices and daily use!
+- :desktop_computer: I love and use linux both in embedded devices and daily needs!
 
 #### Projects
 - :hammer_and_wrench: WIP | Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
