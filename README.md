@@ -28,6 +28,6 @@ Contact with me via these platforms!
 [Youtube](https://www.youtube.com/channel/UCyJN487C64xfTweWEl1-zZA) | [Instagram](https://www.instagram.com/nizam.3d/) | [Twitter](https://twitter.com/nizam3d) | [Mail](mailto:nizamsaltan@protonmail.com)
 
 #### :orange_book: Latest Blog Posts,
-- [I am Working on “a New Way of 3D Printing”!]([https://medium.com/@NizamSaltan/turkeys-2-days-5h-45min-long-examination-system-8e0053376e8](https://medium.com/@nizamsaltan/i-am-working-on-a-new-way-of-3d-printing-8d876ce6a50e))
+- [I am Working on “a New Way of 3D Printing”!](https://medium.com/@nizamsaltan/i-am-working-on-a-new-way-of-3d-printing-8d876ce6a50e)
 - [What Language Will Babies Speak If You Isolate Them From Outside World?](https://medium.com/@NizamSaltan/if-100-babies-are-confined-to-a-room-and-brought-up-what-language-will-they-speak-755f18c17c2d)
 - [How Instagram started and what Entrepreneurs can learn from it?](https://medium.com/@NizamSaltan/how-instagram-started-and-what-entrepreneurs-can-learn-from-it-how-started-71357d262df3)
