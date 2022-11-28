@@ -5,7 +5,7 @@
 - :desktop_computer: I love and use linux both in embedded devices and daily needs!
 
 #### Projects
-- :pushpin: TBP (Triangle Based Printing) - Private Repo - [Blog List](https://medium.com/@nizamsaltan/list/tbp-triangle-based-printing-21cdb820ddd7)
+- :pushpin: **TBP (Triangle Based Printing)** - Private Repo - [Blog List](https://medium.com/@nizamsaltan/list/tbp-triangle-based-printing-21cdb820ddd7)<br>
 - :hammer_and_wrench: WIP | Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
 - :hammer_and_wrench: WIP | Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus) | [Web Demo](https://note-bus.web.app)
 - Unity Shooter - Private Repo - [Youtube](https://www.youtube.com/playlist?list=PL3Rv1lXLyRL_JpBdh8mVgMp72BN3Eyg70) | [Demo Builds](https://www.mediafire.com/folder/9dn490n00pjwb/ShooterDemo+Builds)
@@ -15,8 +15,8 @@
 ## :hammer_and_wrench: Technologies & Tools
 <!--  -->
 ![Unreal Engine](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unreal-engine.svg)
-![C#](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/c%23.svg)
 ![Unity 3D](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/unity-3d.svg)
+![C#](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/c%23.svg)
 ![Dart](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/dart.svg)
 ![Flutter](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/flutter.svg)
 ![Javascript](https://raw.githubusercontent.com/nizamsaltan/nizamsaltan/8ac22f4190403dd95cea59c40bf359d6ab6e1cc5/javascript.svg)
