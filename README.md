@@ -26,7 +26,7 @@
 
 Contact with me via these platforms!
 
-[Youtube](https://www.youtube.com/channel/UCyJN487C64xfTweWEl1-zZA) | [Twitter](https://twitter.com/nizamsaltan) | [Mail](mailto:nizamsaltan@protonmail.com)
+[Twitter](https://twitter.com/nizamsaltan) | [Youtube](https://www.youtube.com/channel/UCyJN487C64xfTweWEl1-zZA) | [Mail](mailto:nizamsaltan@protonmail.com)
 
 #### :orange_book: Latest Blog Posts,
 - [I am Working on “a New Way of 3D Printing”!](https://medium.com/@nizamsaltan/i-am-working-on-a-new-way-of-3d-printing-8d876ce6a50e)
