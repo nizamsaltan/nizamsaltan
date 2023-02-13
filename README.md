@@ -8,8 +8,9 @@
 - :pushpin: **TBP (Triangle Based Printing)** - Private Repo - [Blog List](https://medium.com/@nizamsaltan/list/tbp-triangle-based-printing-21cdb820ddd7)
 - :wrench: BETA | Cross Platform Note Taking App - Note Bus - [GitHub Repo](https://github.com/nizamsaltan/note-bus) | [Web Demo](https://note-bus.web.app)
 - :hammer_and_wrench: WIP | Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
-- Unity Shooter - Private Repo - [Youtube](https://www.youtube.com/playlist?list=PL3Rv1lXLyRL_JpBdh8mVgMp72BN3Eyg70) | [Demo Builds](https://www.mediafire.com/folder/9dn490n00pjwb/ShooterDemo+Builds)
 
+### Arch Linux for Desktop Users
+Read my online free book [here](https://nizamsaltan.com/arch_linux_for_desktop_users). This book covers how to turn the base Linux operating system into a fully functional desktop in an easy-to-understand fashion.
 <br/>
 
 ## :hammer_and_wrench: Technologies & Tools
