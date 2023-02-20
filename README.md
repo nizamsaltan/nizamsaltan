@@ -10,7 +10,7 @@
 - :hammer_and_wrench: WIP | Android Productivity Launcher - BusOS - [GitHub Repo](https://github.com/nizamsaltan/bus-os) 
 
 ### Arch Linux for Desktop Users
-Read my online free book [here](https://nizamsaltan.com/arch_linux_for_desktop_users). This book covers how to turn the base Linux operating system into a fully functional desktop in an easy-to-understand fashion.
+Read my online free book [here](https://nizamsaltan.com/arch_linux_for_desktop_users). This book covers how to turn the base Linux operating system into a fully functional desktop in an easy-to-understand fashion. You can also contributie to book [here](https://github.com/nizamsaltan/arch_linux_for_desktop_users)!
 <br/>
 
 ## :hammer_and_wrench: Technologies & Tools
